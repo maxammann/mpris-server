@@ -1,0 +1,4 @@
+#!/usr/bin/python
+from mpris import server
+
+server.run()
